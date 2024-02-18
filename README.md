@@ -1,1 +1,1 @@
-# computerVision-Azure2024
+# Análise de imagem utilizando AI Vision Service
