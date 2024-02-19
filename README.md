@@ -1,6 +1,7 @@
 # Machine-Learning AI Service using Azure
 
-Ferramentas Utilizadas
+Ferramentas Utilizadas:
+
   *Microsoft Azure Cognitive Services*
 
 - Computer Vision
