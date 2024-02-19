@@ -1,4 +1,4 @@
-# Machine-Learning AI Service using Azure
+# Machine-Learning AI Service 
 
 Ferramentas Utilizadas:
 
