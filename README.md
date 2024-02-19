@@ -1,15 +1,9 @@
-# Análise de imagem utilizando AI Vision Service
+# Machine-Learning AI Service using Azure
 
-#Ferramentas Utilizadas:
+*Ferramentas Utilizadas*
 
--Microsoft Azure Cognitive Services-
+* Microsoft Azure Cognitive Services
   - Computer Vision
-- Microsoft Azure Cognitive Services - Optical Character Recognition (OCR)
-
-#Fluxo do Projeto:
-
-- Envio de Imagens para Análise
-- Análise de Imagem
-- Reconhecimento de Texto
-- Integração de Resultados
-
+  - Optical Character Recognition (OCR)
+  - Language's natural language processing (NLP)
+  - 
